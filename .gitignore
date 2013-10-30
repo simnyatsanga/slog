@@ -1,5 +1,7 @@
+.DS_Store
 .gradle/
 slog.iml
 slog.ipr
 slog.iws
 build/
+out/
