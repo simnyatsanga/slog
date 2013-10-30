@@ -11,6 +11,5 @@ public class SampleController {
     public String loadHomePage(Model m){
         m.addAttribute("name","CodeTutr");
         return "home";
-
     }
 }
