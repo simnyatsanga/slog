@@ -29,8 +29,8 @@ dependencies {
 }
 
 compass {
-    cssDir = file('src/main/webapp/WEB-INF/assets/css')
-    sassDir = file('src/main/webapp/WEB-INF/assets/sass')
+    cssDir = file('src/main/webapp/assets/css')
+    sassDir = file('src/main/webapp/assets/sass')
 }
 
 
