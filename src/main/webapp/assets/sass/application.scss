@@ -1,3 +1,22 @@
+$grid_width: 100%;
+$columns: 12;
+$gutter_width: 0.5%;
+$column_base_width: ($grid_width/12);
+
+@for $i from 1 through $columns {
+  .col-#{$i} {
+     float: left;
+     margin-right: $gutter_width;
+     margin-left: $gutter_width;
+     width: $column_base_width * $i - (2 * $gutter_width);
+   }
+ }
+
+ .first { margin-left: 2 * $gutter_width; margin-right: 0; }
+ .last  { margin-left: 0; margin-right: 2 * $gutter_width; }
+
+
 body {
-   background-color: #F00;
+    width: 100%;
+    margin: 0;
 }
