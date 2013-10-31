@@ -4,6 +4,8 @@
         <title>Sample Application</title>
     </head>
     <body>
-        <h1>Hello, ${name}!</h1>
+        <#list articles as article>
+            <h2>${article.title}</h2>
+        </#list>
     </body>
 </html>

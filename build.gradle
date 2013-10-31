@@ -10,6 +10,8 @@ repositories {
 dependencies {
    providedCompile 'javax.servlet:servlet-api:2.5'
    compile 'org.springframework:spring-webmvc:3.2.2.RELEASE'
+   compile "org.freemarker:freemarker:2.3.20"
+   compile 'org.springframework:spring-context-support:3.2.2.RELEASE'
    runtime 'javax.servlet:jstl:1.1.2'
    testCompile 'junit:junit:4.11'
 }
