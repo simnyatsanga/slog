@@ -1,7 +1,8 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>Sample Application</title>
+        <title>Simba's Blog</title>
+        <link type="text/css" href="css/application.css" rel="stylesheet"></link>
     </head>
     <body>
         <#list articles as article>

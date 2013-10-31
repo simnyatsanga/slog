@@ -5,3 +5,6 @@ slog.ipr
 slog.iws
 build/
 out/
+.jruby/
+.sass-cache/
+

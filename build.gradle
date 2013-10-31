@@ -2,19 +2,37 @@ apply plugin: 'java'
 apply plugin: 'war'
 apply plugin: 'jetty'
 apply plugin: 'idea'
+apply plugin: 'compass'
+
+buildscript {
+    repositories {
+        mavenCentral()
+        maven { url 'http://dl.bintray.com/robfletcher/gradle-plugins' }
+    }
+
+    dependencies {
+        classpath 'org.gradle.plugins:gradle-compass:1.0.7'
+    }
+}
 
 repositories {
-   mavenCentral()
+    mavenCentral()
 }
 
 dependencies {
-   providedCompile 'javax.servlet:servlet-api:2.5'
-   compile 'org.springframework:spring-webmvc:3.2.2.RELEASE'
-   compile "org.freemarker:freemarker:2.3.20"
-   compile 'org.springframework:spring-context-support:3.2.2.RELEASE'
-   runtime 'javax.servlet:jstl:1.1.2'
-   testCompile 'junit:junit:4.11'
+    providedCompile 'javax.servlet:servlet-api:2.5'
+    compile 'org.springframework:spring-webmvc:3.2.2.RELEASE'
+    compile "org.freemarker:freemarker:2.3.20"
+    compile 'org.springframework:spring-context-support:3.2.2.RELEASE'
+    runtime 'javax.servlet:jstl:1.1.2'
+    testCompile 'junit:junit:4.11'
 }
+
+compass {
+    cssDir = file('src/main/webapp/WEB-INF/assets/css')
+    sassDir = file('src/main/webapp/WEB-INF/assets/sass')
+}
+
 
 /* Change context path (base url). otherwise defaults to name of project */
 jettyRunWar.contextPath = '' 
