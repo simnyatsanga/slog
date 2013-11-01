@@ -1,130 +1,130 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\000039}}
 .row { overflow: hidden; *zoom: 1; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-1 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 7.33333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-1.first { margin-left: 0; width: 7.83333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-1.last { margin-right: 0; width: 7.83333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-1.fill { margin-left: 0; margin-right: 0; width: 8.33333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-2 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 15.66667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-2.first { margin-left: 0; width: 16.16667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-2.last { margin-right: 0; width: 16.16667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-2.fill { margin-left: 0; margin-right: 0; width: 16.66667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-3 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 24%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-3.first { margin-left: 0; width: 24.5%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-3.last { margin-right: 0; width: 24.5%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-3.fill { margin-left: 0; margin-right: 0; width: 25%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-4 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 32.33333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-4.first { margin-left: 0; width: 32.83333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-4.last { margin-right: 0; width: 32.83333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-4.fill { margin-left: 0; margin-right: 0; width: 33.33333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-5 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 40.66667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-5.first { margin-left: 0; width: 41.16667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-5.last { margin-right: 0; width: 41.16667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-5.fill { margin-left: 0; margin-right: 0; width: 41.66667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-6 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 49%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-6.first { margin-left: 0; width: 49.5%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-6.last { margin-right: 0; width: 49.5%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-6.fill { margin-left: 0; margin-right: 0; width: 50%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-7 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 57.33333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-7.first { margin-left: 0; width: 57.83333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-7.last { margin-right: 0; width: 57.83333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-7.fill { margin-left: 0; margin-right: 0; width: 58.33333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-8 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 65.66667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-8.first { margin-left: 0; width: 66.16667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-8.last { margin-right: 0; width: 66.16667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-8.fill { margin-left: 0; margin-right: 0; width: 66.66667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-9 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 74%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-9.first { margin-left: 0; width: 74.5%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-9.last { margin-right: 0; width: 74.5%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-9.fill { margin-left: 0; margin-right: 0; width: 75%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-10 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 82.33333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-10.first { margin-left: 0; width: 82.83333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-10.last { margin-right: 0; width: 82.83333%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-10.fill { margin-left: 0; margin-right: 0; width: 83.33333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-11 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 90.66667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-11.first { margin-left: 0; width: 91.16667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-11.last { margin-right: 0; width: 91.16667%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-11.fill { margin-left: 0; margin-right: 0; width: 91.66667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000314}}
 .col-12 { float: left; margin-right: 0.5%; margin-left: 0.5%; width: 99%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000320}}
 .col-12.first { margin-left: 0; width: 99.5%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000321}}
 .col-12.last { margin-right: 0; width: 99.5%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000322}}
 .col-12.fill { margin-left: 0; margin-right: 0; width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000326}}
 body { width: 100%; margin: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000331}}
 img { display: block; width: 100%; height: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000337}}
 .centered { margin: auto !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000341}}
 .container { padding: 0; margin: 0; overflow: hidden; *zoom: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000345}}
 .container.full { width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000346}}
 .container.large { width: 80%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000347}}
 .container.medium { width: 70%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/hendrik\/tw-repo\/p2\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000348}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/simba\/projects\/slog\/src\/main\/webapp\/assets\/sass\/grid\.scss}line{font-family:\0000348}}
 .container.small { width: 50%; }
