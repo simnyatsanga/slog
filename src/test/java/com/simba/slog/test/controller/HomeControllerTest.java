@@ -10,9 +10,7 @@ import java.util.ArrayList;
 import java.util.Date;
 
 import static junit.framework.Assert.assertTrue;
-import static org.hamcrest.CoreMatchers.is;
-import static org.hamcrest.MatcherAssert.assertThat;
-import static org.junit.Assert.assertArrayEquals;
+
 import static org.junit.Assert.assertEquals;
 
 public class HomeControllerTest {
