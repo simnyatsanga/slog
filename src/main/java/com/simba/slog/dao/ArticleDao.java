@@ -8,4 +8,6 @@ public interface ArticleDao {
     Article save(Article article);
     Article get(Long id);
     List<Article> findAll();
+
+    void delete(Long articleId);
 }

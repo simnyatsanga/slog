@@ -33,5 +33,10 @@ public class ArticleDaoImpl implements ArticleDao {
                   "FROM Article ORDER BY id").list();
     }
 
+    @Transactional
+    public void delete(Long articleId) {
+        sessionFactory.getCurrentSession().delete(get(articleId));
+    }
+
 
 }

@@ -34,4 +34,8 @@ public class ArticleServiceImpl {
     {
         return articleDao.findAll();
     }
+
+    public void delete(Long articleId) {
+        articleDao.delete(articleId);
+    }
 }

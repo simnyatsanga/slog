@@ -71,6 +71,14 @@ ArticleServiceImpl articleService;
 
     }
 
+    @RequestMapping(value ="/articles/delete/{articleId}", method = RequestMethod.DELETE)
+    public String delete(@PathVariable("articleId") Long articleId){
+        articleService.delete(articleId);
+
+        return "redirect:/";
+    }
+
+
 
 
 }
