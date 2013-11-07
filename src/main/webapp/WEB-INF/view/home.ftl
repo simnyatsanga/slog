@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
     <head>
         <title>Simba's Blog</title>
@@ -8,6 +7,21 @@
 
 
        <h1 class="full container">Simba's Blog</h1>
+
+       <#list articles as article>
+            <article>
+                <img src="images/1.jpg" />
+                <div class="large centered container content">
+                 <h2>${article.title}</h2>
+                 <time datetime="${article.createdDate}">${article.createdDate}</time>
+                 <h3>${article.summary}</h3>
+                 <p>
+                    ${article.body}
+                 </p>
+            </article>
+       </#list>
+
+
        <#list 1..6 as i>
        <article>
          <img src="images/${i}.jpg" />

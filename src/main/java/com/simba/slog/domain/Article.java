@@ -17,14 +17,19 @@ public class Article implements Comparable<Article> {
     private Long id;
 
     private String title;
+    private String summary;
     private String body;
     private Date createdDate;
 
     public Article() {
+        this.title ="";
+        this.summary="";
+        this.body="";
     }
 
-    public Article(String title, String body, Date createdDate) {
+    public Article(String title, String summary, String body, Date createdDate) {
         this.title = title;
+        this.summary = summary;
         this.body = body;
         this.createdDate = createdDate;
     }
@@ -39,12 +44,32 @@ public class Article implements Comparable<Article> {
         this.title = title;
     }
 
-    public Date createdDate() {
+    public Date getCreatedDate() {
         return createdDate;
     }
 
     @Override
     public int compareTo(Article o) {
         return o.createdDate.compareTo(this.createdDate);
+    }
+
+    public String getSummary() {
+        return summary;
+    }
+
+    public void setSummary(String summary) {
+        this.summary = summary;
+    }
+
+    public String getBody() {
+        return body;
+    }
+
+    public void setBody(String body) {
+        this.body = body;
+    }
+
+    public Long getId() {
+        return id;
     }
 }

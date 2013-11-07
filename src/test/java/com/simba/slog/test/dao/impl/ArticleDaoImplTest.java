@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Date;
+import java.util.List;
 
 import static junit.framework.Assert.assertEquals;
 
@@ -17,10 +18,10 @@ public class ArticleDaoImplTest extends DaoTest {
 
     @Test
     public void all_fields_are_persisted() {
-        Article article = new Article("ZOMG Article", "Body", new Date());
+        Article article = new Article("ZOMG Article", "summary", "Body", new Date());
         articleDaoImpl.save(article);
-        Article articles = articleDaoImpl.get(1L);
+        List<Article> articles = articleDaoImpl.findAll();
 
-        assertEquals("ZOMG Article", articles.getTitle());
+        assertEquals("ZOMG Article", articles.get(0).getTitle());
     }
 }
