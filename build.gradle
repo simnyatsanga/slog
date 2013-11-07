@@ -56,6 +56,9 @@ compass {
     sassDir = file('src/main/webapp/assets/sass')
 }
 
+jettyRun.dependsOn watchSass
+jettyRunWar.dependsOn compileSass
 
 /* Change context path (base url). otherwise defaults to name of project */
+jettyRun.contextPath=''
 jettyRunWar.contextPath = '' 
